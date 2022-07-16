@@ -1,7 +1,7 @@
 ## shalp
 Esolang like ~~programming~~ language, which process small hand alphabets.
 
-## Usage
+## usage
 Compile it through your compiler, I did with GCC (should support TCC).\
 Note: Compilers like watcom have different rules on C, as result, watcom may not be comfortable for it.
 ```sh
@@ -12,7 +12,7 @@ Note: Compilers like watcom have different rules on C, as result, watcom may not
 # run and get stdout on TTY
 [prog] r test.out
 ```
-## Example
+## example
 - Input context
 ```
 this is an example file.
@@ -21,4 +21,7 @@ this is an example file.
 ```
 "$x[=x[=qs=_<q!aw_=lxw_@
 ```
-#### Have fun.
+## why
+"for fun".
+
+#### Now have fun.
