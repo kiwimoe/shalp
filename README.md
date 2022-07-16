@@ -22,6 +22,6 @@ this is an example file.
 "$x[=x[=qs=_<q!aw_=lxw_@
 ```
 ## why
-"for fun".
+"to feel you the cringe", repo may not availble for long.
 
 #### Now have fun.
